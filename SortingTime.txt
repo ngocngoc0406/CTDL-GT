@@ -1,0 +1,5 @@
+SelectSort 20.282
+QuickSort 0.015
+MergeSort 0.032
+InsertSort 8.529
+BubbleSort 42.907
